@@ -13,7 +13,7 @@
 // app.use(cors());
 
 // const uri =
-// "mongodb+srv://emilysbongile:Emily.20@cluster0.e8vinrw.mongodb.net/?retryWrites=true&w=majority";
+// "mongodb+srv://emilysbongile:pr7128C3EFoIjHua@cluster0.e8vinrw.mongodb.net/?retryWrites=true&w=majority";
 
 //   mongoose
 //   .connect(uri)
